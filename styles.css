@@ -1214,7 +1214,7 @@ footer {
    min-height: 300px;
    
    bottom: -1030px;
-   background: url('IMAGES/regrev.png') no-repeat center center/cover;
+   background: url(IMAGES/regrev.png) no-repeat center center/cover;
    
   
 }
